@@ -74,4 +74,3 @@ Contributions are welcome. To contribute:
 3. Open a pull request with a clear description of your changes
 
 Please follow the project's coding style and include tests where appropriate.
-
